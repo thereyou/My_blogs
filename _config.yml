@@ -68,10 +68,10 @@ author:
     name: water
     email: thereyou@126.com
     imageLink: https://avatars.githubusercontent.com/minixalpha
-    simpleIntro: 自我介绍
+    simpleIntro: <div class="text" style=" text-align:center;">自我介绍</div>
     detailIntro:
-      <p>系统更新中.....</p>
-      <p>系统更新中.....</p>
+      <p>站点建设中.....</p>
+      <p>站点建设中.....</p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
