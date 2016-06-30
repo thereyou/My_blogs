@@ -68,10 +68,10 @@ author:
     name: water
     email: thereyou@126.com
     imageLink: images/mnls.png
-    simpleIntro: <div class="text" style=" text-align:center;">自我介绍</div>
+    simpleIntro: <div class="text" style=" text-align:center;">关于我</div>
     detailIntro:
-      <p>站点建设中.....</p>
-      <p>站点建设中.....</p>
+      <p>建设中.....</p>
+      <p>建设中.....</p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
