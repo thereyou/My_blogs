@@ -118,7 +118,7 @@ disqus:
 
 username: thereyou
 #baseurl: /My_blogs
-baseurl: / 
+baseurl: . 
 markdown: redcarpet
 safe: false
 highlighter: pygments
