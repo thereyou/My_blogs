@@ -7,14 +7,14 @@
         <span class="info-link"><a href="{{ site.url }}/navigations/categories.html#{{ page.category }}-ref" >{{ page.category }}</a></span>
     </div>
     {{ content }}
-<!--    <nav class="article-previous fn-clear">
+    <nav class="article-previous fn-clear">
         {% if page.previous %}
         <a class="prev" href="{{site.baseurl}}/{{ page.previous.url }}" rel="bookmark">&laquo;&nbsp;{{ page.previous.title | truncatewords:5 }}</a>
         {% endif %}
         {% if page.next %}
         <a class="next" href="{{site.baseurl}}/{{ page.next.url }}" rel="bookmark">{{ page.next.title | truncatewords:5 }}&nbsp;&raquo;</a>
         {% endif %}
-    </nav>  -->
+    </nav>
     <div class="comment">
         {% if site.disqus.config %}
         <div id="disqus_thread"></div>
