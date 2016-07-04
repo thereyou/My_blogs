@@ -118,7 +118,7 @@ disqus:
 
 username: thereyou
 #baseurl: /My_blogs
-baseurl:wangfeng.51vip.biz 
+baseurl: 
 markdown: redcarpet
 safe: false
 highlighter: pygments
