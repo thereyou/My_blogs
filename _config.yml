@@ -116,7 +116,8 @@ disqus:
 #################################### global configure #######################################
 
 username: thereyou
-baseurl: /My_blogs
+#baseurl: /My_blogs
+baseurl: ./
 markdown: redcarpet
 safe: false
 highlighter: pygments
